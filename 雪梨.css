@@ -1,0 +1,222 @@
+/*
+* @Author: 25401
+* @Date:   2020-05-30 22:03:15
+* @Last Modified by:   25401
+* @Last Modified time: 2020-05-31 16:24:48
+*/
+*{
+        padding: 0;
+        margin: 0;
+}
+body{
+	background-color: #eee;
+}
+.tou{
+	width: 1200px;
+	margin: 20px auto;
+}
+.logo{
+	font-size: 45px;
+	color: #06f;
+	font-weight: bold;
+	margin-right: 60px
+}
+a{
+	color: black;
+	text-decoration: none;
+	font-size: 20px;
+	line-height: 20px;
+	margin: 5px;	
+}
+.geren{
+	margin-left: 10px;
+	font-size: 16px;
+}
+.daohang{
+	display: inline-block;
+	width: 50px;
+	margin: 10px;
+
+}
+.chang{
+	width: 100px;
+}
+.daohang a:hover{
+	border-bottom: 3px #06f solid;
+}
+.search{
+	font-size: 0;
+}
+.shurukuang{
+	border-color: #06f;
+	margin-left: 150px;
+	width: 350px;
+	padding-top: 18px;
+	font-size: 20px;	
+}
+.sousuo{
+	width: 50px;
+	height: 40px;
+	background-image: url('img/sousuo.png');
+	border: 2px #06f;
+}
+.beijing{
+	width: 2000px;
+	height: 420px;
+	background-color: #3a0099;
+}
+.beijingtu{
+	width: 1200px;
+	height: 420px;
+	margin: 0 auto;
+	background-image: url('img/beijing.png');
+}
+.kecheng{
+	width: 200px;
+	height: 420px;
+	background-color: rgba(0,0,0,0.5);
+}
+.ke{
+	color: white;
+}
+.jiantou{
+	float: right;
+}
+li{
+	list-style-type: none;
+	color: white;
+	margin: 20px ;
+	padding-top: 5px;
+	font-size: 16px;
+}
+li a:hover{
+	color: #06f;
+}
+.xingqv{
+	width: 1200px;
+	height: 40px;
+	padding-top: 20px;
+	margin: 10px auto;
+	background-color: #fff;
+}
+.choice{
+	margin: 30px;
+	font-size: 16px;
+}
+
+.set{
+	font-size: 14px;
+	float: right;
+}
+.lanse{
+	color: #06f;
+}
+.module{
+	width: 1200px;
+	margin: 20px auto;
+}
+
+.biaoti{
+	font-size: 20px;
+	height: 20px;
+	margin: 10px;
+}
+
+.xq{
+	font-size: 10px;
+	color: #333;
+	float: right;
+}
+
+.xiaochuang{
+	display: inline-block;
+	border: ;
+	width: 225px;
+	height: 300px;
+	background-color: #fff;
+	margin: 5px;
+}
+.intro{
+	padding: 20px;
+}
+.mark{
+	color: orange;
+	margin:20px;
+}
+.xiaochuang:hover{
+	box-shadow: 1px 0px 10px 1px #222;
+}
+.qianduandaohang a{
+	text-decoration: none;
+	color: black;
+	font-size: 16px;
+	margin: 30px;
+}
+.haibao{
+	float: left;
+	position: relative;
+}
+.haibaozi{
+	position: absolute;
+	bottom: 100px;
+	margin: 20px;
+}
+h1{
+	color: yellow;
+}
+.baise{
+	color: white;
+	font-size: 20px;
+}
+.haibaolianjie{
+	font-size: 10px;
+	color: yellow;
+	border: 1px yellow;
+}
+.niuren{
+	display: inline-block;
+	margin: 0 5px;
+	position: relative;
+}
+.renwu{
+	width: 205px;
+	height: 100px;
+	padding: 10px;
+	color: white;
+	background-color: rgba(0,0,0,0.3);
+	position: absolute;
+	bottom: 3px;
+}
+.fangxiang{
+	margin-left: 20px;
+}
+.jianjie{
+	margin-top: 20px;
+	font-size: 8px;
+}
+.foot{
+	height: 220px;
+	padding:20px; 
+	background-color: white;
+}
+.download{
+	font-size: 15px;
+	color: #06f;
+}
+.xueli{
+	float: left;
+}
+.bangzhu{
+	display: inline-block;
+	margin: 0 50px;
+}
+.neirong{
+	font-size: 20px;
+	color: black;
+
+}
+
+.wenti{
+	font-size: 10px;
+	margin: 0 10px;
+}
